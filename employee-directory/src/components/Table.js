@@ -4,10 +4,10 @@ import MaterialTable from 'material-table';
 export default function Table() {
     const [state, setState] = React.useState({
     columns: [
-      { title: 'Name', field: 'name' },
-      { title: 'Surname', field: 'surname' },
-      { title: 'Birth Year', field: 'birthYear', type: 'numeric' },
-      {
+        { title: 'Id', field: 'Id', type: 'numeric' },
+        { title: 'Name', field: 'name' },
+        { title: 'Role', field: 'role' },
+        {
         title: 'Birth Place',
         field: 'birthCity',
         lookup: { 34: 'İstanbul', 63: 'Şanlıurfa' },
