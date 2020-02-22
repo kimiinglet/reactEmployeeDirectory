@@ -14,76 +14,102 @@ export default function Table() {
         {
             firstName: 'Jason',
             lastName: 'Jeans',
-            id: '50',
+            id: '1',
             role: 'CEO',
-            salary: '160,000'
+            salary: '800,000'
         },
         {
-            name: 'Zerya Betül',
-            id: '50',
-            role: 'CEO',
-            salary: '160,000'
+            firstName: 'Anna',
+            lastName: 'Coffee',
+            id: '2',
+            role: 'CFO',
+            salary: '800,000'
         },
         {
-            name: 'Zerya Betül',
-            id: '50',
-            role: 'CEO',
-            salary: '160,000'
+            firstName: 'Crystal',
+            lastName: 'Ly',
+            id: '20',
+            role: 'Consultant',
+            salary: '154,000'
         },
         {
-            name: 'Zerya Betül',
-            id: '50',
-            role: 'CEO',
-            salary: '160,000'
+            firstName: 'Brianna',
+            lastName: 'McCray',
+            id: '30',
+            role: 'HR',
+            salary: '130,000'
         },
         {
-            name: 'Zerya Betül',
-            id: '50',
-            role: 'CEO',
-            salary: '160,000'
+            firstName: 'Leo',
+            lastName: 'Lopez',
+            id: '62',
+            role: 'Sales',
+            salary: '180,000'
         },
         {
-            name: 'Zerya Betül',
-            id: '50',
-            role: 'CEO',
-            salary: '160,000'
+            firstName: 'Dan',
+            lastName: 'Fenichel',
+            id: '77',
+            role: 'Finance',
+            salary: '210,000'
         },
         {
-            name: 'Zerya Betül',
-            id: '50',
-            role: 'CEO',
-            salary: '160,000'
+            firstName: 'Brittney',
+            lastName: 'Goudeau',
+            id: '32',
+            role: 'HR',
+            salary: '130,000'
         },
         {
-            name: 'Zerya Betül',
-            id: '50',
-            role: 'CEO',
-            salary: '160,000'
+            firstName: 'Tera',
+            lastName: 'Kelly',
+            id: '61',
+            role: 'Sales',
+            salary: '210,000'
         },
         {
-            name: 'Zerya Betül',
-            id: '50',
-            role: 'CEO',
-            salary: '160,000'
+            firstName: 'Maggie',
+            lastName: 'Keifer',
+            id: '41',
+            role: 'Sales',
+            salary: '170,000'
         },
         {
-            name: 'Zerya Betül',
-            id: '50',
-            role: 'CEO',
-            salary: '160,000'
+            firstName: 'Piper',
+            lastName: 'Louise',
+            id: '19',
+            role: 'Manager',
+            salary: '190,000'
         },
         {
-            name: 'Zerya Betül',
-            id: '50',
-            role: 'CEO',
-            salary: '160,000'
+            firstName: 'Andrew',
+            lastName: 'Jinx',
+            id: '18',
+            role: 'Manager',
+            salary: '190,000'
         },
         {
-            name: 'Zerya Betül',
-            id: '50',
-            role: 'CEO',
-            salary: '160,000'
+            firstName: 'Pearson',
+            lastName: 'Plans',
+            id: '43',
+            role: 'Intern',
+            salary: '80,000'
         },
+        {
+            firstName: 'Penelope',
+            lastName: 'Gray',
+            id: '46',
+            role: 'Intern',
+            salary: '80,000'
+        },
+        {
+            firstName: 'Tiffany',
+            lastName: 'Books',
+            id: '48',
+            role: 'Intern',
+            salary: '80,000'
+        },
+
 
     ],
   });
