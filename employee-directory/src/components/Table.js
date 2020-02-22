@@ -4,23 +4,87 @@ import MaterialTable from 'material-table';
 export default function Table() {
     const [state, setState] = React.useState({
     columns: [
-        { title: 'Id', field: 'Id', type: 'numeric' },
-        { title: 'Name', field: 'name' },
+        { title: 'Id', field: 'id', type: 'numeric' },
+        { title: 'First Name', field: 'firstName' },
+        { title: 'Last Name', field: 'lastName' },
         { title: 'Role', field: 'role' },
-        {
-        title: 'Birth Place',
-        field: 'birthCity',
-        lookup: { 34: 'İstanbul', 63: 'Şanlıurfa' },
-      },
+        { title: 'Salary', field: 'salary', type: 'numeric'},
     ],
     data: [
-      { name: 'Mehmet', surname: 'Baran', birthYear: 1987, birthCity: 63 },
-      {
-        name: 'Zerya Betül',
-        surname: 'Baran',
-        birthYear: 2017,
-        birthCity: 34,
-      },
+        {
+            firstName: 'Jason',
+            lastName: 'Jeans',
+            id: '50',
+            role: 'CEO',
+            salary: '160,000'
+        },
+        {
+            name: 'Zerya Betül',
+            id: '50',
+            role: 'CEO',
+            salary: '160,000'
+        },
+        {
+            name: 'Zerya Betül',
+            id: '50',
+            role: 'CEO',
+            salary: '160,000'
+        },
+        {
+            name: 'Zerya Betül',
+            id: '50',
+            role: 'CEO',
+            salary: '160,000'
+        },
+        {
+            name: 'Zerya Betül',
+            id: '50',
+            role: 'CEO',
+            salary: '160,000'
+        },
+        {
+            name: 'Zerya Betül',
+            id: '50',
+            role: 'CEO',
+            salary: '160,000'
+        },
+        {
+            name: 'Zerya Betül',
+            id: '50',
+            role: 'CEO',
+            salary: '160,000'
+        },
+        {
+            name: 'Zerya Betül',
+            id: '50',
+            role: 'CEO',
+            salary: '160,000'
+        },
+        {
+            name: 'Zerya Betül',
+            id: '50',
+            role: 'CEO',
+            salary: '160,000'
+        },
+        {
+            name: 'Zerya Betül',
+            id: '50',
+            role: 'CEO',
+            salary: '160,000'
+        },
+        {
+            name: 'Zerya Betül',
+            id: '50',
+            role: 'CEO',
+            salary: '160,000'
+        },
+        {
+            name: 'Zerya Betül',
+            id: '50',
+            role: 'CEO',
+            salary: '160,000'
+        },
+
     ],
   });
 
