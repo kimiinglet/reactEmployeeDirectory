@@ -18,5 +18,11 @@ The user is able to:
 
   * Filter the users by at least one property.
 
+  ## Check out my work here: 
+
+  https://react-to-employee-directory.herokuapp.com/
+
+  https://github.com/kimiinglet/reactEmployeeDirectory
+  
 <img src="./Employee.png">
 
